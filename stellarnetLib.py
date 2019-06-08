@@ -8,7 +8,6 @@ import struct
 import re
 import os
 import numpy as np
-
 '''
 *****************************************
 Static parameters:
