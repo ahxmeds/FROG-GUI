@@ -6,7 +6,7 @@ In this project, I have built a GUI-based software for Second Harmonic Generatio
 
 ## Devices Required
 
-In order to collect the FROG trace using this software, you need to have the following devices:
+In order to collect the FROG trace using this software, you should have the following devices:
 * The FROG optical setup - A diagram is given [here][3]. 
 * [StellarNet BLUE-Wave Miniature Spectrometer][4] 
 * [Newport 3-Axis Motion Controller and Driver][5] (Model: ESP 300/301) 
