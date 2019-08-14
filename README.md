@@ -1,4 +1,4 @@
-# Frequency Resolved Optical Gating
+# Frequency Resolved Optical Gating (Unfinised README.md file)
 
 Frequency Resolved Optical Gating (FROG) is a technique for measuring the spectral phase of ultrashort laser pulses. The technique was invented by Rick Trebino and Daniel J. Kane in 1991. Initially, it was thought that in order to measure an event in time, a shorted event was needed, with which to measure it. Since the ultrashort pulses are the shortest events ever created, it was assumed that their complete measurement in time was impossible. The FROG, however, was the first method to solve this problem by measuring the spectrogram of the pulse, in which the pulse gates itself in a non-linear optical medium. The resulting gated part of the pulse is then spectrally resolved as a function of the delay between the two pulses. Finally, the retrieval of the pulse from the corresponding FROG trace is performed using a two-dimensional phase-retrieval algorithm (whose roots lie in the Fundamental Theorem of Algebra)[[1]]. 
 
